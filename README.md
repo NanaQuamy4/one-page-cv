@@ -35,6 +35,8 @@ Customization
 2. Replace the placeholder content with your information
 3. Modify `styles.css` to change the appearance
 
+Project url: "https://github.com/NanaQuamy4/one-page-cv/tree/main"
+
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
